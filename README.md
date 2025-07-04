@@ -24,7 +24,7 @@
 
 ```bash
 # Clone & enter project
-$ git clone https://github.com/<you>/lead-gen-system.git
+$ git clone...
 $ cd lead-gen-system
 
 # Install deps (create a venv first if you like)
