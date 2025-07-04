@@ -1,0 +1,8 @@
+python-dotenv==1.0.0
+requests==2.31.0
+airtable-python-api==0.15.3
+openai==1.12.0
+PyPDF2==3.0.1
+pytesseract==0.3.10
+Pillow==10.2.0
+pdfplumber==0.10.3 

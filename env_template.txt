@@ -1,0 +1,12 @@
+# Copy this file to .env and fill in your actual values
+
+# OpenAI API Key
+OPENAI_API_KEY="sk-..."
+
+# Airtable Credentials
+AIRTABLE_API_KEY="key..."
+AIRTABLE_BASE_ID="app..."
+AIRTABLE_TABLE_NAME="Leads"
+
+# Tesseract Path (optional, if not in system PATH)
+TESSERACT_CMD_PATH="C:/Program Files/Tesseract-OCR/tesseract.exe" 
